@@ -1,0 +1,5 @@
+streamlit==1.65.0
+SQLAlchemy==2.0.54
+pandas==2.3.3
+numpy==2.2.6
+Pillow==12.3.0
